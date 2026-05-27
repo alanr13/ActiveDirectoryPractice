@@ -1,4 +1,4 @@
-# ActiveDirectoryPractice
+# Active Directory Company Environment
 
 pracownik1 log in
 <img width="1021" height="768" alt="logowanie pracownik1" src="https://github.com/user-attachments/assets/db087331-a62a-4e8d-b560-1d521f6964fa" />
@@ -36,6 +36,21 @@ Setting password for a user
 Setting password for a user 2
 <img width="1022" height="767" alt="ustawianie hasła dla użytkownika 2" src="https://github.com/user-attachments/assets/c0321a74-fa28-43bf-bcb5-69848471f7cf" />
 
+Organizational Units
+jednostki organizacyjne.png
+
+IT Department Organizational Unit
+IT.png
+
+Workers Department Organizational Unit
+workers_1.png
+workers_2.png
+
+Managers Department Organizational Unit
+managers.png
+
+Leaders Department Organizational Unit
+leaders.png
 
 
 
