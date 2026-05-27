@@ -37,20 +37,20 @@ Setting password for a user 2
 <img width="1022" height="767" alt="ustawianie hasła dla użytkownika 2" src="https://github.com/user-attachments/assets/c0321a74-fa28-43bf-bcb5-69848471f7cf" />
 
 Organizational Units
-https://github.com/alanr13/ActiveDirectoryPractice/blob/616cc356492f879a3754f820f0d396585e56eb77/grupa%20robocza.png
+[jednostki organizacyjne.png](https://github.com/alanr13/ActiveDirectoryPractice/blob/616cc356492f879a3754f820f0d396585e56eb77/grupa%20robocza.png)
 
 IT Department Organizational Unit
-https://github.com/alanr13/ActiveDirectoryPractice/blob/616cc356492f879a3754f820f0d396585e56eb77/IT.png
+[IT.png](https://github.com/alanr13/ActiveDirectoryPractice/blob/616cc356492f879a3754f820f0d396585e56eb77/IT.png)
 
 Workers Department Organizational Unit
-https://github.com/alanr13/ActiveDirectoryPractice/blob/616cc356492f879a3754f820f0d396585e56eb77/workers_1.png
-https://github.com/alanr13/ActiveDirectoryPractice/blob/616cc356492f879a3754f820f0d396585e56eb77/workers_2.png
+[workers_1.png](https://github.com/alanr13/ActiveDirectoryPractice/blob/616cc356492f879a3754f820f0d396585e56eb77/workers_1.png)
+[workers_2.png](https://github.com/alanr13/ActiveDirectoryPractice/blob/616cc356492f879a3754f820f0d396585e56eb77/workers_2.png)
 
 Managers Department Organizational Unit
-https://github.com/alanr13/ActiveDirectoryPractice/blob/616cc356492f879a3754f820f0d396585e56eb77/managers.png
+[managers.png](https://github.com/alanr13/ActiveDirectoryPractice/blob/616cc356492f879a3754f820f0d396585e56eb77/managers.png)
 
 Leaders Department Organizational Unit
-https://github.com/alanr13/ActiveDirectoryPractice/blob/616cc356492f879a3754f820f0d396585e56eb77/leaders.png
+[leaders.png](https://github.com/alanr13/ActiveDirectoryPractice/blob/616cc356492f879a3754f820f0d396585e56eb77/leaders.png)
 
 
 
